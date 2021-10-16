@@ -1,0 +1,61 @@
+.App{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+
+   
+   margin:0px;
+}
+body {
+  background-image: url("https://www.pentecostalthai.org/wordpress/wp-content/uploads/2018/01/wallpaper-dec28.jpg");
+  background-repeat:no-repeat;
+  background-position-x:center;
+  background-position-y:center;
+}
+header{width:99.5%; display:table; background-color:#0b41a5
+
+}
+.uul{display:table; float:right;
+float:left; list-style:none;
+color:#eef1f5; font-size:15px; padding: 10px 10px;text-decoration:none; 
+padding-right:10px;background-color:#9ca5ad; color:#eef1f5; transition: all 0.5s ease 0s;}
+header{padding:2px;}
+
+.logo
+{
+  width :30%;
+  height: 30%;
+}
+.foto
+{
+  width :90%;
+  height: 100%;
+  margin: .5em; 
+}
+main{
+  color:aliceblue;
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px solid #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.divi{
+  color:aliceblue;
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px solid #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.formu{
+  color:aliceblue;
+  border: 2px solid #ccc;
+}
+.ini{
+  color:aliceblue;
+}
